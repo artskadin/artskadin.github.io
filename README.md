@@ -25,7 +25,7 @@
 |18   | [FRMW_005](https://kodaktor.ru/frmw_005) | [here](https://artskadin.github.io/frmws/frmw_005/task_5/dist/) | [frmw_005_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_005/task_5) |
 |19   | [FRMW_006](https://kodaktor.ru/frmw_006) | [here](https://artskadin.github.io/frmws/frmw_006/) | [frmw_006_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_006/) |
 |20   | [FRMW_007](https://kodaktor.ru/frmw_007) |  |  |
-|21   | [](https://kodaktor.ru/evnt_002) | [Kodactor](https://kodaktor.ru/evnt_3086c) |  |
+|21   | [YOU](https://kodaktor.ru/you) | [here](https://artskadin.github.io/you/index.html) | [you_code](https://github.com/artskadin/artskadin.github.io/tree/master/you) |
 
 ```markdown
 Syntax highlighted code block
