@@ -7,6 +7,14 @@ You can use the [editor on GitHub](https://github.com/artskadin/artskadin.github
 
 [testLink](https://vk.com/artskadin)
 
+
+|№.   | Задание | Решение | Исходный код |
+|-----|---------|---------|--------------|
+|1    | [FUNC_001](https://kodaktor.ru/func_001) |  |  |
+|2    | [FUNC_002](https://kodaktor.ru/func_002) |  |  |
+|3    | [FUNC_003](https://kodaktor.ru/func_003) | [Kodactor](https://kodaktor.ru/func_9ae2e) |  |
+
+
 ```markdown
 Syntax highlighted code block
 
