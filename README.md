@@ -5,8 +5,8 @@
 
 |№.   | Задание | Решение | Исходный код |
 |-----|---------|---------|--------------|
-|1    | [FUNC_001](https://kodaktor.ru/func_001) | [github](func/func_001.js) | [func_001_code](func/func_001.js) |
-|2    | [FUNC_002](https://kodaktor.ru/func_002) | [github](func/func_002.js) | [func_002_code](func/func_002.js) |
+|1    | [FUNC_001](https://kodaktor.ru/func_001) | [github](https://github.com/artskadin/artskadin.github.io/blob/master/func/func_001.js) | [func_001_code](func/func_001.js) |
+|2    | [FUNC_002](https://kodaktor.ru/func_002) | [github](https://github.com/artskadin/artskadin.github.io/blob/master/func/func_002.js) | [func_002_code](func/func_002.js) |
 |3    | [FUNC_003](https://kodaktor.ru/func_003) | [Kodactor](https://kodaktor.ru/func_9ae2e) | [func_003_code](func/func_003.js) |
 |4    | [FUNC_004](https://kodaktor.ru/func_004) | [github](func/func_004.js) | [func_004_code](func/func_004.js) |
 |5    | [FUNC_005](https://kodaktor.ru/func_005) | [github](func/func_005.js) | [func_005_code](func/func_005.js) |
