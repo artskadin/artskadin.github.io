@@ -3,16 +3,18 @@
 ## Repository's author: Артем Скадин
 ## Group: P41071
 
-You can use the [editor on GitHub](https://github.com/artskadin/artskadin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-[testLink](https://vk.com/artskadin)
-
-
 |№.   | Задание | Решение | Исходный код |
 |-----|---------|---------|--------------|
 |1    | [FUNC_001](https://kodaktor.ru/func_001) |  |  |
 |2    | [FUNC_002](https://kodaktor.ru/func_002) |  |  |
 |3    | [FUNC_003](https://kodaktor.ru/func_003) | [Kodactor](https://kodaktor.ru/func_9ae2e) |  |
+|4    | [FUNC_004](https://kodaktor.ru/func_004) |  |  |
+|5    | [FUNC_005](https://kodaktor.ru/func_005) |  |  |
+|6    | [FUNC_006](https://kodaktor.ru/func_006) | [Kodactor](https://kodaktor.ru/func_c40f7) |  |
+|7    | [FUNC_007](https://kodaktor.ru/func_007) |  |  |
+|8    | [FUNC_008](https://kodaktor.ru/func_008) | [Kodactor](https://kodaktor.ru/func_b3903) |  |
+|9    | [FUNC_009](https://kodaktor.ru/func_009) | [Kodactor](https://kodaktor.ru/func_76b96) |  |
+|10    | [FUNC_010](https://kodaktor.ru/func_010) |  |  |
 
 
 ```markdown
