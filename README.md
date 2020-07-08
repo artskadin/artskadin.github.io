@@ -14,7 +14,7 @@
 |7    | [FUNC_007](https://kodaktor.ru/func_007) | [github](https://github.com/artskadin/artskadin.github.io/blob/master/func/func_007.js) | [func_007_code](https://github.com/artskadin/artskadin.github.io/blob/master/func/func_007.js) |
 |8    | [FUNC_008](https://kodaktor.ru/func_008) | [Kodactor](https://kodaktor.ru/func_b3903) | [func_008_code](https://github.com/artskadin/artskadin.github.io/blob/master/func/func_008.js) |
 |9    | [FUNC_009](https://kodaktor.ru/func_009) | [Kodactor](https://kodaktor.ru/func_76b96) | [func_009_code](https://github.com/artskadin/artskadin.github.io/blob/master/func/func_009.js) |
-|10   | [FUNC_010](https://kodaktor.ru/func_010) | [github](https://github.com/artskadin/artskadin.github.io/blob/master/func/func_010.js) | [func_010_code](blob/master/func/func_010.js) |
+|10   | [FUNC_010](https://kodaktor.ru/func_010) | [github](https://github.com/artskadin/artskadin.github.io/blob/master/func/func_010.js) | [func_010_code](func/func_010.js) |
 |11   | [ASYNC-TASKS](https://kodaktor.ru/async_tasks) | [Codepen](https://codepen.io/artskadin/pen/ExPEodY) |  |
 |12   | [BUBL_002](https://kodaktor.ru/babl_002) | [Kodactor](https://kodaktor.ru/bind02032018_d042e) |  |
 |13   | [EVNT_002](https://kodaktor.ru/evnt_002) | [Kodactor](https://kodaktor.ru/evnt_3086c) |  |
