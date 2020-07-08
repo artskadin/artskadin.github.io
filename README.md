@@ -22,7 +22,7 @@
 |15   | [FRMW_002](https://kodaktor.ru/frmw_002) | [here](https://artskadin.github.io/frmws/frmw_002/myproj/dist/) | [frmw_002_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_002/myproj) |
 |16   | [FRMW_003](https://kodaktor.ru/frmw_003) | [here](https://artskadin.github.io/frmws/frmw_003/task_3/dist/) | [frmw_003_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_003/task_3) |
 |17   | [FRMW_004](https://kodaktor.ru/frmw_004) | [here](https://artskadin.github.io/frmws/frmw_004/task_4/dist/) | [frmw_004_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_004/task_4) |
-|18   | [FRMW_005](https://kodaktor.ru/frmw_005) |  |  |
+|18   | [FRMW_005](https://kodaktor.ru/frmw_005) | [here](https://artskadin.github.io/frmws/frmw_005/task_5/dist/) | [frmw_005_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_005/task_5) |
 |19   | [FRMW_006](https://kodaktor.ru/frmw_006) |  |  |
 |20   | [FRMW_007](https://kodaktor.ru/frmw_007) |  |  |
 |21   | [](https://kodaktor.ru/evnt_002) | [Kodactor](https://kodaktor.ru/evnt_3086c) |  |
