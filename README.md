@@ -18,9 +18,14 @@
 |11   | [ASYNC-TASKS](https://kodaktor.ru/async_tasks) | [Codepen](https://codepen.io/artskadin/pen/ExPEodY) |  |
 |12   | [BUBL_002](https://kodaktor.ru/babl_002) | [Kodactor](https://kodaktor.ru/bind02032018_d042e) |  |
 |13   | [EVNT_002](https://kodaktor.ru/evnt_002) | [Kodactor](https://kodaktor.ru/evnt_3086c) |  |
-
-
-
+|14   | [FRMW_001](https://kodaktor.ru/frmw_001) |  |  |
+|14   | [FRMW_002](https://kodaktor.ru/frmw_002) |  |  |
+|14   | [FRMW_003](https://kodaktor.ru/frmw_003) |  |  |
+|14   | [FRMW_004](https://kodaktor.ru/frmw_004) |  |  |
+|14   | [FRMW_005](https://kodaktor.ru/frmw_005) |  |  |
+|14   | [FRMW_006](https://kodaktor.ru/frmw_006) |  |  |
+|14   | [FRMW_007](https://kodaktor.ru/frmw_007) |  |  |
+|21   | [](https://kodaktor.ru/evnt_002) | [Kodactor](https://kodaktor.ru/evnt_3086c) |  |
 
 ```markdown
 Syntax highlighted code block
