@@ -14,7 +14,12 @@
 |7    | [FUNC_007](https://kodaktor.ru/func_007) |  |  |
 |8    | [FUNC_008](https://kodaktor.ru/func_008) | [Kodactor](https://kodaktor.ru/func_b3903) |  |
 |9    | [FUNC_009](https://kodaktor.ru/func_009) | [Kodactor](https://kodaktor.ru/func_76b96) |  |
-|10    | [FUNC_010](https://kodaktor.ru/func_010) |  |  |
+|10   | [FUNC_010](https://kodaktor.ru/func_010) |  |  |
+|11   | [ASYNC-TASKS](https://kodaktor.ru/async_tasks) | [Codepen](https://codepen.io/artskadin/pen/ExPEodY) |  |
+|12   | [BUBL_002](https://kodaktor.ru/babl_002) | [Kodactor](https://kodaktor.ru/bind02032018_d042e) |  |
+|13   | [EVNT_002](https://kodaktor.ru/evnt_002) | [Kodactor](https://kodaktor.ru/evnt_3086c) |  |
+
+
 
 
 ```markdown
@@ -34,13 +39,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/artskadin/artskadin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
