@@ -24,23 +24,5 @@
 |17   | [FRMW_004](https://kodaktor.ru/frmw_004) | [here](https://artskadin.github.io/frmws/frmw_004/task_4/dist/) | [frmw_004_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_004/task_4) |
 |18   | [FRMW_005](https://kodaktor.ru/frmw_005) | [here](https://artskadin.github.io/frmws/frmw_005/task_5/dist/) | [frmw_005_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_005/task_5) |
 |19   | [FRMW_006](https://kodaktor.ru/frmw_006) | [here](https://artskadin.github.io/frmws/frmw_006/) | [frmw_006_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_006/) |
-|20   | [FRMW_007](https://kodaktor.ru/frmw_007) | [here](https://artskadin.github.io/frmws/frmw_006/) | [frmw_007_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_006/) |
+|20   | [FRMW_007](https://kodaktor.ru/frmw_007) | [here](https://artskadin.github.io/frmws/frmw_007/index.html) | [frmw_007_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_006/) |
 |21   | [YOU](https://kodaktor.ru/you) | [here](https://artskadin.github.io/you/index.html) | [you_code](https://github.com/artskadin/artskadin.github.io/tree/master/you) |
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
