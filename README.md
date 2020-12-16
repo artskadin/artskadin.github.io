@@ -26,3 +26,4 @@
 |19   | [FRMW_006](https://kodaktor.ru/frmw_006) | [here](https://artskadin.github.io/frmws/frmw_006/) | [frmw_006_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_006/) |
 |20   | [FRMW_007](https://kodaktor.ru/frmw_007) | [here](https://artskadin.github.io/frmws/frmw_007/index.html) | [frmw_007_code](https://github.com/artskadin/artskadin.github.io/tree/master/frmws/frmw_006/) |
 |21   | [YOU](https://kodaktor.ru/you) | [here](https://artskadin.github.io/you/index.html) | [you_code](https://github.com/artskadin/artskadin.github.io/tree/master/you) |
+|22   | [FUNBOX](https://dl.funbox.ru/qt-js.pdf) | [here](https://artskadin.github.io/funbox/index.html) ||
